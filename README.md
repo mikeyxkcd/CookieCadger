@@ -1,7 +1,8 @@
 Cookie Cadger
 ============
-## An auditing tool for Wi-Fi or wired Ethernet connections
 [![Build Status](https://api.travis-ci.org/CookieCadger/CookieCadger.png)](https://travis-ci.org/CookieCadger/CookieCadger)
+
+## An auditing tool for Wi-Fi or wired Ethernet connections
 
 
 https://cookiecadger.com
