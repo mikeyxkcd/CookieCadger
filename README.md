@@ -7,7 +7,7 @@ Cookie Cadger
 
 https://cookiecadger.com
 
-https://github.com/sullivanmatt/CookieCadger
+https://github.com/CookieCadger/CookieCadger
 
 ----------------------------------------------
 Requirements
@@ -50,7 +50,7 @@ Support
 
 Feature requests / bug reports:
 
-https://github.com/sullivanmatt/CookieCadger/issues
+https://github.com/CookieCadger/CookieCadger/issues
 
 
 General information / anything else:
